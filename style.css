@@ -1,0 +1,33 @@
+td {
+  border: solid 5px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 350px;
+  height: 350px;
+}
+
+.red {
+  background-color: #da422a;
+}
+
+.yellow {
+  background-color: #f8ce2e;
+}
+
+.black {
+  background-color: black;
+}
+
+.blue {
+  background-color: #3c5f99;
+}
+
+.rbr {
+  border-right-color: transparent;
+}
+
+.rbb {
+  border-bottom-color: transparent;
+}
